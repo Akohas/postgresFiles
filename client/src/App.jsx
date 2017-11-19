@@ -2,9 +2,8 @@ import React from 'react';
 import styled from 'styled-components';
 
 const Wrapper = styled.div`
-    margin-top:40px;
     background: #fff;
-    margin: 0 auto;
+    margin: 40px auto 0;
     padding: 20px;
     text-align: center;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.39);
